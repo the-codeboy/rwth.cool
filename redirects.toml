@@ -320,3 +320,13 @@ url = "https://buchung.hsz.rwth-aachen.de/angebote/aktueller_zeitraum/index.html
 description = "List of all sport offers"
 aliases = ["allsport", "allsports"]
 category = "Gym & Sports"
+
+[redirects.jobs]
+url = "https://www.rwth-aachen.de/go/id/buym/lidx/1"
+description = "RWTH Jobs Portal"
+category = "Jobs"
+
+[redirects.jobboerse]
+url = "https://www.asta.rwth-aachen.de/service/jobboerse/"
+description = "AStA Jobbörse"
+category = "Jobs"
