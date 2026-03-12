@@ -313,3 +313,10 @@ category = "Institutes"
 url = "https://kartenservice.stw.rwth-aachen.de/KartenService"
 description = "STW Kartenservice to manage mensa autoload"
 aliases = ["autoload"]
+category = "Useful Tools"
+
+[redirects.sportall]
+url = "https://buchung.hsz.rwth-aachen.de/angebote/aktueller_zeitraum/index.html"
+description = "List of all sport offers"
+aliases = ["allsport", "allsports"]
+category = "Gym & Sports"
