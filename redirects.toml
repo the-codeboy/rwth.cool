@@ -135,7 +135,7 @@ description = "HPC Cluster Dokumentation"
 category = "IT & Infrastructure"
 
 [redirects.quit]
-url = "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaaajyav&download=1"
+url = "https://paperless.rwth-aachen.de/application/exmatrikulation"
 description = "Aufgeben ist die letzte Option!"
 category = "Academic"
 alias = ["getmeoutofrwth", "aufgeben"]
