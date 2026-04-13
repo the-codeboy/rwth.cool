@@ -330,3 +330,15 @@ category = "Jobs"
 url = "https://www.asta.rwth-aachen.de/service/jobboerse/"
 description = "AStA Jobbörse"
 category = "Jobs"
+
+[redirects.fahrrad]
+url = "https://www.asta.rwth-aachen.de/service/fahrradwerkstatt/"
+description = "AStA Bicycle workshop - Fix your bike with assistance by skilled students"
+category = "Student Services"
+aliases = ["bicycle", "fahrradwerkstatt"]
+
+[redirects.werkstatt]
+url = "https://www.studiwerkstatt.de/"
+description = "Student-run makerspace with wide selection of tools available"
+category = "Student Services"
+aliases = ["studiwerkstatt", "shop", "makerspace"]
